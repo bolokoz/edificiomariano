@@ -14,15 +14,13 @@ Bien Venidos al Edificio Mariano!
 
 Departmentos totalmente amoblados para alquiler!
 
-- 📗 [Nuxtjs Starters](https://nuxtstarters.com)
-- 🏠 [FortyTwoTools](https://fortytwotools.com)
+- 📗 Conheça sobre o prédio
+- 🏠 Conheça nossos apartamentos
+- 🏠 Conheça nossos salões comerciais
 
 ---
 
-Here is your starting listings grid 👇
-
-::search
-::
+Veja abaixo nossas unidades disponíveis 👇
 
 ::directory-grid
 ::
