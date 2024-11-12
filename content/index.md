@@ -2,15 +2,20 @@
 layout: wide
 ---
 
-# This is your brand new directory ! 👋
+# Edificio Mariano !
 
-You can customize this page in markdown.
+Bem vindos ao edifcio Mariano!
 
-See the [📚 **documentation**](https://minteddirectory.com/docs) to see how to customize your landing page.
+Apartamentos totalmente mobiliados para aluguel
 
-Get inspired by other directories:
-+ 📗 [Nuxtjs Starters](https://nuxtstarters.com)
-+ 🏠 [FortyTwoTools](https://fortytwotools.com)
+---
+
+Bien Venidos al Edificio Mariano!
+
+Departmentos totalmente amoblados para alquiler!
+
+- 📗 [Nuxtjs Starters](https://nuxtstarters.com)
+- 🏠 [FortyTwoTools](https://fortytwotools.com)
 
 ---
 

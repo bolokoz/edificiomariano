@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "Edificio Mariano",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,8 +10,8 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Minted Directory",
-    description: "Example Description",
+    name: "Edificio Mariano PJC",
+    description: "Edificio Mariano PJC",
     url: "https://example.com",
     favicon: {
       image: "",
@@ -74,9 +74,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: "Create your own directory website in minutes.",
+      text: "Edificio Mariano PJC",
       link: "https://minteddirectory.com",
-      brandText: "MintedDirectory",
+      brandText: "Edificio Mariano PJC",
     },
     navbar: {
       colorModeSelector: true,
@@ -92,12 +92,12 @@ export default defineAppConfig({
       ],
     },
     actionButton: {
-      text: "Submit a starter",
-      href: "/submit",
+      text: "Whatsapp",
+      href: "https://wa.me/595974731320",
     },
   },
   footer: {
-    description: "Best directory for my niche.",
+    description: "Edificio Mariano PJC - Departamentos Amoblados Para Alquiler",
     socials: {
       github: {
         link: "",
@@ -108,7 +108,7 @@ export default defineAppConfig({
         icon: "tabler:brand-facebook",
       },
       instagram: {
-        link: "",
+        link: "edificiomariano",
         icon: "tabler:brand-instagram",
       },
       x: {
